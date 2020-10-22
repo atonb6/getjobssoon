@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Coming Soon Preview](https://startbootstrap.com/assets/img/screenshots/themes/coming-soon.png)](https://startbootstrap.github.io/startbootstrap-coming-soon/)
+[![Coming Soon Preview](https://github.com/atonb6/getjobssoon/tree/master/img/comingsoon.png)](https://startbootstrap.github.io/startbootstrap-coming-soon/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-coming-soon/)**
+**[View Live Preview](https://atonb6.github.io/getjobssoon/)**
 
 ## Status
 
